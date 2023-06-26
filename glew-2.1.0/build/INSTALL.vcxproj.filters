@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wenwe\OneDrive\文件\111-1\計算機圖學\glew-2.1.0\build\CMakeFiles\1b8d462d473b11b573b5493192613acb\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C2FB096B-C453-30F9-8BE3-1FE0C08FBB06}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

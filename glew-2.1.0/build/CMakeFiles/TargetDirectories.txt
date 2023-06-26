@@ -1,0 +1,8 @@
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/glew.dir
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/glew_s.dir
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/glewinfo.dir
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/visualinfo.dir
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/uninstall.dir
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/INSTALL.dir
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/CMakeFiles/ZERO_CHECK.dir

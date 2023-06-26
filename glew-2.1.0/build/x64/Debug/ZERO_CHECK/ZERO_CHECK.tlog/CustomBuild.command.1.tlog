@@ -1,0 +1,10 @@
+^C:\USERS\WENWE\ONEDRIVE\文件\111-1\計算機圖學\GLEW-2.1.0\BUILD\CMAKEFILES\1B8D462D473B11B573B5493192613ACB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/cmake -BC:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/glew-2.1.0/build/glew.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

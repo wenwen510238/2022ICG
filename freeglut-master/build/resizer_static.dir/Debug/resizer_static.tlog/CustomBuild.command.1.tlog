@@ -1,0 +1,10 @@
+^C:\USERS\WENWE\ONEDRIVE\文件\111-1\計算機圖學\FREEGLUT-MASTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/freeglut-master -BC:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/freeglut-master/build --check-stamp-file C:/Users/wenwe/OneDrive/文件/111-1/計算機圖學/freeglut-master/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
